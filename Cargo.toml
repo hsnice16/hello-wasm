@@ -1,10 +1,10 @@
 [package]
 name = "hello-wasm"
 version = "0.1.0"
-authors = "d"
-description = "d"
+authors = ["Himanshu Singh <hsnice16@gmail.com>"]
+description = "A sample project with wasm-pack"
 license = "MIT/Apache-2.0"
-repository = "d"
+repository = "https://github.com/hsnice16/hello-wasm"
 edition = "2021"
 
 [lib]
