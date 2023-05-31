@@ -1,0 +1,25 @@
+{
+  "name": "hello-wasm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "serve": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "hello-wasm-demo": "0.1.0"
+  },
+  "devDependencies": {
+    "webpack": "5.84.1",
+    "webpack-cli": "5.1.1",
+    "webpack-dev-server": "4.15.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-personal:hsnice16/hello-wasm.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
